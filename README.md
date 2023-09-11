@@ -1,7 +1,7 @@
 ###########################################
-## Written by Haimiao Zhang
-## Coauthors: Bin Dong, Baodong Liu
-## Copyright preserved
+### Written by Haimiao Zhang
+### Coauthors: Bin Dong, Baodong Liu
+### Copyright preserved
 ###########################################
 
 1.Create the conda env based on
