@@ -5,10 +5,10 @@
 ###########################################
 
 1.Create the conda env based on
-environment.yml
+```environment.yml```
 
 2.Train model
-python main.py
+```python main.py```
 
 3.The deep neural network architecture was proposed in the following reference
 [1] Zhang, Haimiao, Bin Dong, and Baodong Liu. "JSR-Net: A Deep Network for Joint Spatial-radon Domain CT Reconstruction from Incomplete Data." In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3657-3661. IEEE, 2019.
