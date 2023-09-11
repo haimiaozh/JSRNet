@@ -1,8 +1,7 @@
 ###########################################
-# Written by Haimiao Zhang
-# Coauthors: Bin Dong, Baodong Liu
-# Copyright preserved
-# Contact: hmzhang@bistu.edu.cn
+## Written by Haimiao Zhang
+## Coauthors: Bin Dong, Baodong Liu
+## Copyright preserved
 ###########################################
 
 1.Create the conda env based on
